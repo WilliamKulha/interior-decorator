@@ -24,6 +24,18 @@ img{
   margin: 12px;
 }
 
+.left {
+  background-color:red;
+}
+
+.mid {
+  background-color:yellow;
+}
+
+.right {
+  background-color:green;
+}
+
 .topinfo {
   text-align: center;
   font-style:italic;
